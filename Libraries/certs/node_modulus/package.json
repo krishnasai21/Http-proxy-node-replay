@@ -1,0 +1,14 @@
+{
+    "name": "colors",
+    "description": "get colors in your node.js console like what",
+    "author": "Krishnasai21",
+    "version": "0.5.1",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/krishnsai21/colors.js.git"
+    },
+    "engines": {
+        "node": ">=0.1.90"
+    },
+    "main": "colors"
+}
